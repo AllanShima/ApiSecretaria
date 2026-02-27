@@ -17,6 +17,7 @@ namespace ApiSecretaria.Application.Services
             _repository = repository;
         }
 
+        // Método "Matricular"
         public void CreateAluno(CreateAlunoDTO alunoDTO)
         {
             try
