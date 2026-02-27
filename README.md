@@ -1,5 +1,5 @@
 ## Endpoints da API
-![Alt text](images/your-image-name.png)
+---
 ### POST - CreateAluno (Matricula)
 <img width="1368" height="693" alt="image" src="https://github.com/user-attachments/assets/5e765eeb-7b1b-4fab-8582-cf25f8e7b3d0" />
 
